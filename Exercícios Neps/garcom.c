@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #define N 100
 
 int main() {
@@ -12,5 +13,4 @@ int main() {
     }
     printf("%d\n", quebrados);
     return 0;
-
 }
