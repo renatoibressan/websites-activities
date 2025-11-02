@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main() {
     int n, v[100000], i1 = 0, i2 = 0, la = 0, lb = 0;
